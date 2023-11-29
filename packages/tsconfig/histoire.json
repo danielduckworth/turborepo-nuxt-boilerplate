@@ -3,11 +3,15 @@
   "display": "Histoire",
   "extends": "./base.json",
   "compilerOptions": {
-    "target": "ESNext",
+    "target": "es2017",
     "module": "ESNext",
     "lib": ["ESNext"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
     "strictNullChecks": true,
     "resolveJsonModule": true,
     "jsx": "preserve"
-  }
+  },
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue"]
 }
