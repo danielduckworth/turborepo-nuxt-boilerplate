@@ -12,13 +12,13 @@
     "lint:fix": "eslint --fix"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.1.36",
+    "@iconify-json/mdi": "^1.1.57",
     "@myturborepo/tsconfig": "workspace:*",
     "@myturborepo/ui": "workspace:*",
     "@myturborepo/vuetify-config": "workspace:*",
-    "@unocss/nuxt": "^0.47.5",
-    "nuxt": "3.0.0",
-    "vite-plugin-vuetify": "^1.0.0"
+    "@unocss/nuxt": "^0.57.7",
+    "nuxt": "3.8.2",
+    "vite-plugin-vuetify": "^1.0.2"
   },
   "dependencies": {
     "@myturborepo/common": "workspace:*"

@@ -8,12 +8,12 @@
     "serve": "vitepress serve pages"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.1.36",
+    "@iconify-json/mdi": "^1.1.57",
     "@myturborepo/ui": "workspace:*",
     "@myturborepo/vuetify-config": "workspace:*",
-    "unocss": "^0.47.5",
-    "vite-plugin-vuetify": "^1.0.0",
-    "vitepress": "1.0.0-alpha.30",
-    "vue": "^3.2.45"
+    "unocss": "^0.57.7",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vitepress": "1.0.0-rc.31",
+    "vue": "^3.3.9"
   }
 }

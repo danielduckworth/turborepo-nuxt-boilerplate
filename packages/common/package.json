@@ -2,7 +2,7 @@
   "name": "@myturborepo/common",
   "private": true,
   "devDependencies": {
-    "typescript": "^4.9.4",
-    "@myturborepo/tsconfig": "workspace:*"
+    "@myturborepo/tsconfig": "workspace:*",
+    "typescript": "^5.3.2"
   }
 }
